@@ -1,0 +1,47 @@
+{
+  "users": [],
+  "workers": [
+    {
+      "name": "desktop-1",
+      "active": true,
+      "enabled": false,
+      "ping": 1754577577661,
+      "balance": 0,
+      "stats": {
+        "shopChecks": 0,
+        "giftsBought": 0
+      },
+      "logs": [],
+      "ws": {
+        "_events": {
+          "close": [
+            null
+          ],
+          "error": [
+            null
+          ],
+          "message": [
+            null
+          ],
+          "end": [
+            null
+          ]
+        },
+        "_eventsCount": 4
+      }
+    },
+    {
+      "name": "desktop-3",
+      "active": false,
+      "enabled": true,
+      "ping": 0,
+      "balance": 0,
+      "stats": {
+        "shopChecks": 0,
+        "giftsBought": 0
+      },
+      "logs": []
+    }
+  ],
+  "meta": {}
+}

@@ -1,0 +1,10 @@
+**/node_modules
+**/*.pem
+**/.env
+worker/android/*
+worker/web
+**/__pycache__
+**/userdata
+main/screenshots
+main/rus.traineddata
+**/https/*
